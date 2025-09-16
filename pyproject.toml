@@ -8,4 +8,5 @@ dependencies = [
     "asyncio>=4.0.0",
     "fastmcp>=2.12.2",
     "oci>=2.160.0",
+    "python-dotenv>=1.1.1",
 ]
