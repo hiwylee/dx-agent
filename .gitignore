@@ -40,3 +40,4 @@ nohup.out
 
 # Wheel files (이미 있는 경우 제외하고 싶다면)
 *.whl
+.env
